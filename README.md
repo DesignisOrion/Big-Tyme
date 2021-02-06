@@ -1,4 +1,5 @@
 # Big Tyme (A simple timer using Python)
 
-Goal: Once timer is up, it plays the song "Rick Ross - Big Tyme ft. Swizz Beatz"
+# About
+A simple timer app created using python. The goal is to embed a audio file once the timer is done.
 
